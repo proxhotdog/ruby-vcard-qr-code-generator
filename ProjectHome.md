@@ -1,0 +1,1 @@
+A QR code generator written by Ruby, it convert a vcard format data into QR code and therefore can be use as personal business card
